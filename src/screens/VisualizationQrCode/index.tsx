@@ -27,7 +27,7 @@ const VisualizationQrCode = () => {
         const codeData = codes[0].value;
         console.log('codes', codes);
         Alert.alert('QR Code Escaneado', `Conteúdo: ${codeData}`, [
-          {text: 'OK', onPress: () => console.log('Alert fechado')},
+          {text: 'OK', onPress: () => {}},
         ]);
       }
       console.log(`Scanned ${codes.length} codes!`);
