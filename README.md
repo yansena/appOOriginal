@@ -11,9 +11,15 @@ using the framework
 
 ## Imagens
 
-![Tela principal]([https://i.imgur.com/iTLO0JC.png](https://imgur.com/b25lpaT))
-![Criar novo qrcode]([https://i.imgur.com/vgs0lpU.png](https://imgur.com/5n7Tp4A))
-![Tela de visualizar(funcionando apenas em dispositivo físico)]([https://i.imgur.com/B8uG8Av.png](https://imgur.com/e60mDn6))
+<p align="center">
+  <img src="https://i.imgur.com/b25lpaT.png" alt="Tela principal" width="300" height="500">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/5n7Tp4A.png" alt="Criar novo qrcode" width="300" height="500">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/e60mDn6.png" alt="Tela de visualizar" width="300" height="500">
+</p>
 
 ## 🚀 Technologies
 
